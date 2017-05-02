@@ -1,5 +1,7 @@
 # ee-event
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-event.svg)](https://greenkeeper.io/)
+
 
     var   Class     = require( "ee-class" )
         , Events    = require( "ee-event" );
